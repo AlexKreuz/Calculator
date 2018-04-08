@@ -1,0 +1,16 @@
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\bin\Debug\Calc.exe.config
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.exe
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.pdb
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Джо\Documents\Visual Studio 2015\Projects\Calc\2\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
